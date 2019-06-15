@@ -107,9 +107,36 @@
         display: flex;
         align-items: center;
         overflow: hidden;
-        background-image: url(images/ji.jpeg);
         transform-origin: 0% 50%;
         background-size: cover;
+    }
+
+    main.index {
+        background-image: url(images/ji.jpeg);
+    }
+
+    main.web {
+        background-image: url(images/web.jpg);
+    }
+
+    main.content {
+        background-image: url(images/content.jpg);
+    }
+
+    main.animation {
+        background-image: url(images/animation.jpg);
+    }
+
+    main.ux {
+        background-image: url(images/ux.jpg);
+    }
+
+    main.portfolio {
+        background-image: url(images/ji.jpeg);
+    }
+
+    main.aboutme {
+        background-image: url(images/me1.jpg);
     }
 
     main:after {
@@ -268,7 +295,6 @@
         padding-top: 65px;
         font-size: 40px;
         color: white;
-        JAM
     }
 
     #ux {
