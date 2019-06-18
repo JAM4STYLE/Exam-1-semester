@@ -112,7 +112,7 @@
     }
 
     main.index {
-        background-image: url(images/ji.jpeg);
+        background-image: url(images/adventure.jpg);
     }
 
     main.web {
@@ -132,11 +132,11 @@
     }
 
     main.portfolio {
-        background-image: url(images/ji.jpeg);
+        background-image: url(images/magic.jpg);
     }
 
     main.aboutme {
-        background-image: url(images/me1.jpg);
+        background-image: url(images/beach.jpg);
     }
 
     main:after {
@@ -181,7 +181,7 @@
         padding: 1em 1em;
         max-width: 680px;
         overflow: auto;
-        background-color: rgba(255, 255, 255, .5);
+        background-color: rgba(255, 255, 255, .8);
 
     }
 
@@ -194,6 +194,7 @@
     section p {
         display: inline-block;
         margin: 16px 0;
+        font-size: 17px;
     }
 
     /*//////////////////////////////////////*/
